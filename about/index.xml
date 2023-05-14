@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Sam Robbins</title>
-    <link>https://example.com/about/</link>
+    <link>https://highlaw00.github.io/about/</link>
     <description>Recent content in About on Sam Robbins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://highlaw00.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
