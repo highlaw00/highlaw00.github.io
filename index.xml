@@ -8,6 +8,15 @@
     <language>en-gb</language>
     <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First Post of highlaw00</title>
+      <link>https://example.com/blog/secondblog/</link>
+      <pubDate>Wed, 10 May 2023 16:24:19 +0900</pubDate>
+      
+      <guid>https://example.com/blog/secondblog/</guid>
+      <description>제가 만든 첫번째 포스트입니다. 수업이 유익하고 재미있어요!</description>
+    </item>
+    
+    <item>
       <title>Hugo Portfolio Website</title>
       <link>https://example.com/portfolio/hugo-portfolio-website/</link>
       <pubDate>Fri, 19 Jun 2020 23:00:00 +0000</pubDate>
