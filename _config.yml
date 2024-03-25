@@ -50,6 +50,5 @@ show_drafts: null
 limit_posts: 0
 future:      false
 unpublished: false
-remote_theme: starry99/catbook
 url: "highlaw00.github.io"
 baseurl: ""
